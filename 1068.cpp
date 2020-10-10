@@ -8,6 +8,8 @@
 #include<queue>
 using namespace std;
 
+//hhhhhnhh
+
 struct per{
 	int num;
 	int scr;
